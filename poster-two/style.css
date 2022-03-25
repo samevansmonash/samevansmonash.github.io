@@ -1,0 +1,65 @@
+body{
+    background-color: aquamarine;
+}
+
+div.poster {
+    background-color: antiquewhite;
+    width:75%;
+}
+
+div.text {
+    font-size: 70px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    text-decoration-color: blueviolet;
+    transition: 0.5s;
+}
+
+/* rule 1  */
+
+div.textx.one{
+    font-size: 20px;
+}
+
+div.text.two {
+    font-size: 50px;
+}
+
+div.text.three{
+    font-size: 100px;
+}
+
+/* rule 2 */
+
+div.text.a {
+    letter-spacing: 0cm;
+}
+
+div.text.b{
+    letter-spacing: 0.5cm;
+}
+
+div.text.c{
+    letter-spacing: 2cm;
+}
+
+/* rule 3 */
+
+div.text.x{
+    text-align: left;
+}
+
+div.text.y{
+    text-align: right;
+}
+
+div.text.z{
+    text-align: center;
+}
+
+div.small {
+    font-size: 30px;
+    text-decoration-color: bisque ;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}

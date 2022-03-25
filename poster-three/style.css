@@ -1,0 +1,65 @@
+body{
+    background-color: aquamarine;
+}
+
+div.poster {
+    background-color: antiquewhite;
+    width:75%;
+}
+
+div.text {
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration-color: blueviolet;
+    transition: 0.5s;
+}
+
+/* rule 1  */
+
+div.textx.one{
+    font-size: 20px;
+}
+
+div.text.two {
+    font-size: 50px;
+}
+
+div.text.three{
+    font-size: 100px;
+}
+
+/* rule 2 */
+
+div.text.a {
+    color: blue;
+}
+
+div.text.b{
+    color: rgb(88, 14, 76);
+}
+
+div.text.c{
+    color: rgb(85, 170, 0);
+}
+
+/* rule 3 */
+
+div.text.x{
+    font-weight: 100;
+}
+
+div.text.y{
+    font-weight: 400;
+}
+
+div.text.z{
+    font-weight: 900;
+}
+
+div.small {
+    font-size: 30px;
+    text-decoration-color: bisque ;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
